@@ -2,5 +2,8 @@
 
 - 한빛무역에서 제공한 데이터를 MySQL을 사용해 데이터베이스를 만들고 필요한 정보만 추출했습니다.
 
+<img width="589" height="216" alt="image" src="https://github.com/user-attachments/assets/79ac558a-4d97-4762-9909-fe5c59a8ff58" />
+
+
 # 프로젝트 의의
 - 확실히 C, C++, 파이썬을 해서 그런지 SQL 언어가 직관적이라 재밌게 배웠습니다.
